@@ -31,7 +31,7 @@ Open `index.html` in a browser, or run `npx serve` in the folder.
 ## Deploy on GitHub Pages
 1. Push the project to a public repo named `landing-page-project`.
 2. Go to **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-3. Your site will be live at `https://<your-username>.github.io/landing-page-project/`.
+3. Your site will be live at `https://<your-username>.github.io/landing-page-project/`.   
 
 ## What I learned
 Mobile-first thinking, CSS custom properties, IntersectionObserver, and accessible navigation.
